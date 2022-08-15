@@ -1,1 +1,7 @@
-I'm Dimitri Papadopoulos, owner-operator of MONTREAL GREEK TV, Montreal's 24/7 Greek Television Channel.
+## plugin.video.montreal.greek-tv
+
+# Montreal Greek TV
+
+A Kodi addon featuring streams from Montreal Greek TV & Radio Stations
+
+Artwork provided by Montreal Greek TV webmaster
